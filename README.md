@@ -25,6 +25,7 @@ Interested in Artificial Intelligence, Machine Learning, Data Science, Image Pro
 
 ### Connect with me
 - GitHub: https://github.com/Aksel-2105
+- LinkedIn: https://www.linkedin.com/in/abderrahmane-aghaddar/
 
 <!--
 **Aksel-2105/Aksel-2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
